@@ -90,6 +90,8 @@ Démarrez le serveur de développement front-end :
 ## Conclusion
 
 Votre projet devrait maintenant être configuré et prêt à l'emploi !
-```
-J'ai cependant eu plusieur (beaucoup) de soucis pour le faire fonctionner correctement sur mon poste.
-```
+
+
+
+J'ai cependant eux plusieurs (beaucoup) de soucis pour le faire fonctionner correctement sur mon poste.
+
